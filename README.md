@@ -106,5 +106,5 @@ If you like this project:
 
 ## 👨‍💻 Author
 
-**Mehar**  
-Aspiring AI/ML Engineer | Python & Data Science Enthusiast  
+**Mehar Taj**  
+Aspiring AI/ML Engineer | Currently learning Python, NumPy & Data Science
