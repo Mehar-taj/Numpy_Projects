@@ -1,51 +1,72 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=NumPy%20Projects%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ===================== BADGES ===================== -->
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-orange?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner_to_Intermediate-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
+
+</p>
+
+---
+
 # 🧠 NumPy Projects Portfolio
 
-A collection of Python projects built using **NumPy**, focused on data analysis, numerical computation, and real-world dataset handling. This repository demonstrates hands-on practice with arrays, structured datasets, and modular programming.
+A collection of Python-based projects built using **NumPy**, focusing on data analysis, numerical computation, and real-world dataset handling.  
+This repository demonstrates practical experience in array operations, structured datasets, and modular Python programming.
 
 ---
 
 ## 📌 Project Overview
 
-This repository contains multiple mini-projects designed to strengthen core **NumPy skills** through practical implementation.
+This repository includes multiple mini-projects designed to strengthen core **NumPy skills** through real-world applications.
+
+---
 
 ### 🏦 Bank Customer Dataset Analysis
-A data analysis project based on banking customer information.
+A structured data analysis project focused on banking customer behavior.
 
-- Data loading and preprocessing  
-- Customer filtering using conditions  
-- Statistical analysis (mean, max, min)  
-- Customer segmentation  
-- Task-based problem solving  
+✔ Data loading and preprocessing  
+✔ Conditional filtering using NumPy  
+✔ Statistical analysis (mean, max, min)  
+✔ Customer segmentation  
+✔ Task-based problem solving  
 
 ---
 
 ### 🎓 Students Report Database System
-A student performance analysis system using CSV data.
+A student performance analysis system using CSV datasets.
 
-- Reading and processing CSV data  
-- Marks analysis and calculations  
-- Identifying toppers and low performers  
-- Average and ranking calculations  
-- Modular task-based structure  
+✔ CSV data handling  
+✔ Marks analysis across subjects  
+✔ Ranking and topper identification  
+✔ Average performance calculation  
+✔ Modular task-based design  
 
 ---
 
 ### 🖼️ Image Analyzer Project
-A simple NumPy-based image processing project.
+A simple NumPy-based image processing tool.
 
-- Convert images into arrays  
-- Pixel-level operations  
-- Basic image data analysis  
+✔ Image → NumPy array conversion  
+✔ Pixel-level manipulation  
+✔ Basic image data analysis  
 
 ---
 
 ### ➗ Matrix Calculator
-A NumPy-based calculator for matrix operations.
+A numerical computation tool using NumPy.
 
-- Matrix addition and subtraction  
-- Matrix multiplication  
-- Transpose operations  
-- Efficient array computations  
+✔ Matrix addition & subtraction  
+✔ Matrix multiplication  
+✔ Transpose operations  
+✔ Efficient array computations  
 
 ---
 
@@ -55,6 +76,13 @@ A NumPy-based calculator for matrix operations.
 Numpy_Projects/
 │
 ├── Bank_Customer_Dataset/
+│   ├── Bank_dataset.py
+│   ├── Task_1.py ... Task_8.py
+│
 ├── Students_Report_DB/
+│   ├── Import_data.py
+│   ├── students_data.csv
+│   ├── Task_1.py ... Task_11.py
+│
 ├── Image_Analyzer_project.py
 ├── Matrix_Calculator.py
