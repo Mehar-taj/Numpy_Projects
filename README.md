@@ -89,14 +89,19 @@ Numpy_Projects/
 
 ---
 
+---
+
 ## ⭐ Show Your Support
 
 If you like this project:
 
-⭐ Star this repository  
-🍴 Fork it  
-📢 Share it with others  
+⭐ Star this repository on GitHub  
+🍴 Fork it and explore improvements  
+📢 Share it with friends and developers  
 
+💙 Your support motivates me to keep building more projects and learning new skills.
+
+---
 ---
 
 ## 👨‍💻 Author
