@@ -86,3 +86,20 @@ Numpy_Projects/
 │
 ├── Image_Analyzer_project.py
 ├── Matrix_Calculator.py
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project:
+
+⭐ Star this repository  
+🍴 Fork it  
+📢 Share it with others  
+
+---
+
+## 👨‍💻 Author
+
+**Mehar**  
+Aspiring AI/ML Engineer | Python & Data Science Enthusiast  
